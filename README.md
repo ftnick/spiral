@@ -1,3 +1,5 @@
+![spiral banner](banner.png)
+
 # spiral
 
 Welcome to the official repository for **spiral**! This repository contains all the necessary files for major releases, issue tracking, and website resources.
